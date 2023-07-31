@@ -12,3 +12,6 @@ web_bootcamp projects
 
 #5 gift_card hosted here:https://edwinbenny96.github.io/WEBIG/gift_card/
 
+#6 Static hosted here:https://edwinbenny96.github.io/WEBIG/Static/
+
+
