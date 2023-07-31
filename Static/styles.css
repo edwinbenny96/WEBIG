@@ -1,0 +1,45 @@
+body{
+    background: red;
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+
+.prj{
+    margin-top: 100px;
+    border: 1px solid black;
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+
+}
+
+.hb{
+    margin-top: 100px;
+    border: 1px solid black;
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+.ac{
+    margin-top: 100px;
+    border: 1px solid black;
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+div{
+    display: flex;
+    text-align: justify;
+    flex-direction: column;
+    
+}
