@@ -1,5 +1,7 @@
 # c6wWkt2
 
+### Its hosted here :#6 Static hosted here:https://edwinbenny96.github.io/WEBIG/web-css-flex/
+
 Quick start:
 
 ```
