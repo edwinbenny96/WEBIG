@@ -14,4 +14,6 @@ web_bootcamp projects
 
 #6 Static hosted here:https://edwinbenny96.github.io/WEBIG/Static/
 
+#6 web-cssflex hosted here:https://edwinbenny96.github.io/WEBIG/web-css-flex/
+
 
