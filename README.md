@@ -18,4 +18,6 @@ web_bootcamp projects
 
 #8 passenger_counter hosted here:https://edwinbenny96.github.io/WEBIG/passenger_counter/
 
+#9 calculator hosted here:https://edwinbenny96.github.io/WEBIG/calculator/
+
 
