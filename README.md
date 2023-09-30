@@ -20,4 +20,6 @@ web_bootcamp projects
 
 #9 calculator hosted here:https://edwinbenny96.github.io/WEBIG/calculator/
 
+#10 blackjack_game:https://edwinbenny96.github.io/WEBIG/blackjack_game/
+
 
