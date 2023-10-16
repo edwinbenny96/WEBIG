@@ -24,4 +24,6 @@ web_bootcamp projects
 
 #11 fruit_sort : https://edwinbenny96.github.io/WEBIG/fruit_sort/
 
+#12 chrome_ext : https://edwinbenny96.github.io/WEBIG/chrome_ext/
+
 
