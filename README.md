@@ -26,4 +26,6 @@ web_bootcamp projects
 
 #12 chrome_ext : https://edwinbenny96.github.io/WEBIG/chrome_ext/
 
+#13 string_to_number : https://edwinbenny96.github.io/WEBIG/string_to_num/
+
 
