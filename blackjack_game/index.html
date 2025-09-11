@@ -1,15 +1,30 @@
-<html>
-    <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
-        <link rel="stylesheet" href="index.css">
-    </head>
-    <body>
-        <h1>Blackjack</h1>
-        <p id="message-el">Want to play a round?</p>
-        <p id="cards-el">Cards:</p>
-        <p id="sum-el">Sum:</p>
-        <button onclick="startGame()">START GAME</button>
-        <button onclick="newCard()">NEW CARD</button>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blackjack Advanced</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1>Blackjack</h1>
+
+    <div id="player-section">
         <p id="player-el"></p>
-        <script src="index.js"></script>
-    </body>
+        <label>Bet: $<input type="number" id="bet-el" min="1" value="10"></label>
+        <button onclick="placeBet()">Place Bet</button>
+    </div>
+
+    <p id="message-el">Welcome! Place your bet to start.</p>
+    <p id="cards-el">Your Cards: </p>
+    <p id="sum-el">Sum: </p>
+    <p id="dealer-cards-el">Dealer Cards: </p>
+    <p id="dealer-sum-el">Dealer Sum: </p>
+
+    <button onclick="hit()" id="hit-btn" disabled>Hit</button>
+    <button onclick="stand()" id="stand-btn" disabled>Stand</button>
+    <button onclick="startGame()" id="restart-btn">Restart Game</button>
+
+    <script src="index.js"></script>
+</body>
 </html>
